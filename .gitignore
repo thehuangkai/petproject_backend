@@ -7,6 +7,9 @@
 env/
 .vscode/
 
+# Migration files
+0*.py
+
 # Node artifact files
 node_modules/
 dist/
